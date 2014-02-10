@@ -1,7 +1,9 @@
 /*
 William Kasurak
 2456259
-
+DIGF 2B03 
+Midterm
+02/09/2014
 
 This is a change to the code
 
