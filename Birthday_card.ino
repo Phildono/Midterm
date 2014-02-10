@@ -1,6 +1,8 @@
 /*
 William Kasurak
 
+This is a change to the code
+
 simplified and altered the code from the following sources  to create
 the interactive birthday invite sketch
 http://musicdiver.com/wordpress/2013/01/keypad-code-lock-with-arduino/
@@ -110,7 +112,7 @@ for (int thisNote = 0; thisNote < 8; thisNote++) {
 
 void song(){
   
- tone(speakPin,melody,noteDurations);
+   tone(speakPin,melody,noteDurations);
 }
 void invalidCode()
 {
