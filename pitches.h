@@ -1,3 +1,7 @@
+//set of defined library of notes that are created
+//by mapping values to notes so that the tone function can play the right tone for the right note
+//taken from http://arduino.cc/en/Tutorial/tone reference
+
 #define NOTE_B0  31
 #define NOTE_C1  33
 #define NOTE_CS1 35
